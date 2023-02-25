@@ -8,5 +8,6 @@ import lombok.Data;
 public class Asset {
     private byte[] content;
     private String contentType;
+    //contenido
 
 }
