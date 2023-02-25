@@ -21,7 +21,8 @@ public class Curso {
 
     @NonNull
     private String titulo;
-
+    
+    //lineas para imagen
     private String imagenPath;
     private String cedulaPath;
 
